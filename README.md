@@ -7,7 +7,7 @@ An demo blockchain app
 3.Mocha - install using (npm install -g mocha)
 4.Truffle - install using (npm install -g truffle)
 
-#Running the app
+# Running the app
 1.open the terminal in the root folder and type
 2.npm install
 3.truffle compile
