@@ -2,7 +2,7 @@
 An demo blockchain app
 
 # Dependencies
-1.Node Js,
+1.Node Js
 2.Truffle Ganache
 3.Mocha - install using (npm install -g mocha)
 4.Truffle - install using (npm install -g truffle)
