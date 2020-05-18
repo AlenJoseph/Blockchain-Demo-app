@@ -74,7 +74,6 @@ describe('For Verify if values exist in Blockchain API', () => {
       .request(serverUrl)
       .get('/verify/?string=Alen')
       .end((err, res) => {
-        console.log(res.body);
         res.status.should.be.equal(200);
         res.body.status.should.be.equal('Success');
         res.body.timestamp.should.be.equal('1589777117');
